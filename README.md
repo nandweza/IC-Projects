@@ -1,4 +1,1 @@
-# IC-Projects
-
-Learning about Blockchain and Internet Computer
-
+# Blockchain and Internet Computer
